@@ -1,5 +1,5 @@
 // Languages
-export { testLang } from "./translations/test.lang";
+export * as testLang from "./translations/test.lang";
 
 // Types ========================================
 

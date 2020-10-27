@@ -1,4 +1,4 @@
-export const testLang = {
+export default {
   TEST: {
     eng: "Only admins can access this route!",
     ptBr: "Apenas administradores podem acessar esta rota.",
