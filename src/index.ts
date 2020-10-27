@@ -1,5 +1,4 @@
 // Languages
-
 export { testLang } from "./translations/test.lang";
 
 // Types ========================================
