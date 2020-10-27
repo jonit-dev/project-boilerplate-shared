@@ -1,3 +1,3 @@
-export * from "./translations";
+// Types ========================================
 
-export * from "./types";
+export * from "./types/translation.types";
