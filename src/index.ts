@@ -1,1 +1,3 @@
-export * from "./types/translation.types";
+export * from "./translations";
+
+export * from "./types";
