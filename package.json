@@ -1,6 +1,6 @@
 {
   "name": "@little-sentinel/shared",
-  "version": "1.0.44",
+  "version": "1.0.45",
   "description": "",
   "main": "dist/src/index.js",
   "types": "dist/index.d.ts",
