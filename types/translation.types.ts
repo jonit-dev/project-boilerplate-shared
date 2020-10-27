@@ -21,3 +21,11 @@ export enum GlobalTranslationKeys {
   SERVER_BOOTSTRAP_ERROR = "SERVER_BOOTSTRAP_ERROR",
   SERVER_RUNNING = "SERVER_RUNNING",
 }
+
+export enum UserTranslationKeys {
+  ADMIN_ONLY = "ADMIN_ONLY",
+}
+
+export enum LogTranslationKeys {
+  LOG_DELETE_NOT_FOUND = "LOG_DELETE_NOT_FOUND",
+}
