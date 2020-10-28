@@ -7,25 +7,25 @@ export enum Entities {
 }
 
 export enum AuthTranslationKeys {
-  INVALID_CREDENTIALS = "INVALID_CREDENTIALS",
-  FORM_INPUT_EMAIL_PLACEHOLDER = "FORM_INPUT_EMAIL_PLACEHOLDER",
-  FORM_INPUT_PASSWORD_PLACEHOLDER = "FORM_INPUT_PASSWORD_PLACEHOLDER",
-  LOGIN = "LOGIN",
-  CREATE_YOUR_ACCOUNT = "CREATE_YOUR_ACCOUNT",
-  FORGOT_PASSWORD = "FORGOT_PASSWORD",
+  InvalidCredentials = "InvalidCredentials",
+  FormInputEmailPlaceholder = "FormInputEmailPlaceholder",
+  FormInputPasswordPlaceholder = "FormInputPasswordPlaceholder",
+  Login = "Login",
+  CreateYourAccount = "CreateYourAccount",
+  ForgotPassword = "ForgotPassword",
 }
 
 export enum GlobalTranslationKeys {
-  WAIT_MESSAGE = "WAIT_MESSAGE",
-  FORBIDDEN_KEY_UPDATE = "FORBIDDEN_KEY_UPDATE",
-  SERVER_BOOTSTRAP_ERROR = "SERVER_BOOTSTRAP_ERROR",
-  SERVER_RUNNING = "SERVER_RUNNING",
+  WaitMessage = "WaitMessage",
+  ForbiddenKeyUpdate = "ForbiddenKeyUpdate",
+  ServerBootstrapError = "ServerBootstrapError",
+  ServerRunning = "ServerRunning",
 }
 
 export enum UserTranslationKeys {
-  ADMIN_ONLY = "ADMIN_ONLY",
+  AdminOnly = "AdminOnly",
 }
 
 export enum LogTranslationKeys {
-  LOG_DELETE_NOT_FOUND = "LOG_DELETE_NOT_FOUND",
+  LogDeleteNotFound = "LogDeleteNotFound",
 }
