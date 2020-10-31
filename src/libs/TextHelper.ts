@@ -1,12 +1,12 @@
 export class TextHelper {
-  public static capitalizeFirstLetter = string => {
-    return string.charAt(0).toUpperCase() + string.slice(1);
-  };
+  public static capitalizeFirstLetter(str: string) {
+    return str.charAt(0).toUpperCase() + str.slice(1);
+  }
 
-  private static escapeRegExp(str) {
+  private static escapeRegExp(str: string) {
     return str.replace(/([.*+?^=!:${}()|\[\]\/\\])/g, "\\$1");
   }
-  public static replaceAll(str, find, replace) {
+  public static replaceAll(str: string, find: string, replace: string) {
     return str.replace(new RegExp(TextHelper.escapeRegExp(find), "g"), replace);
   }
 
