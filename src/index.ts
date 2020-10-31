@@ -5,4 +5,4 @@ export * from "./types/httpStatus.types";
 
 // Helpers ========================================
 
-export * from "./libs/TextHelper";
+export { TextHelper } from "./libs/TextHelper";
