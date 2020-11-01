@@ -1,6 +1,6 @@
 export interface IUserEntity {
   id: string;
-  type: string;
+  type: UserTypes;
   email: string;
   unsubscribed: boolean;
 }
