@@ -1,5 +1,5 @@
 export interface IUserEntity {
-  id: string;
+  id: number;
   type: UserTypes;
   email: string;
   unsubscribed: boolean;
