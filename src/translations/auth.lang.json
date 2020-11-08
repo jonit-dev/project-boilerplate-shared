@@ -22,5 +22,9 @@
   "ForgotPassword": {
     "eng": "Forgot Your Password?",
     "ptBr": "Esqueceu sua Senha?"
+  },
+  "EmptyEmailPassword": {
+    "eng": "Please fill your e-mail or password to login!",
+    "ptBr": "Por favor, preencha seu e-mail e senha para fazer login!"
   }
 }
