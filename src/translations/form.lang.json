@@ -1,21 +1,21 @@
 {
-  "Name": {
+  "name": {
     "eng": "Name",
     "ptBr": "Nome"
   },
-  "Email": {
+  "email": {
     "eng": "E-mail",
     "ptBr": "E-mail"
   },
-  "Password": {
+  "password": {
     "eng": "Password",
     "ptBr": "Senha"
   },
-  "Address": {
+  "address": {
     "eng": "Address",
     "ptBr": "Endereço"
   },
-  "Phone": {
+  "phone": {
     "eng": "Phone",
     "ptBr": "Telefone"
   }

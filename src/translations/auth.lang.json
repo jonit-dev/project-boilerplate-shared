@@ -1,29 +1,29 @@
 {
-  "InvalidCredentials": {
+  "invalidCredentials": {
     "eng": "Invalid credentials. Please, check your email or password.",
     "ptBr": "Credenciais inválidas. Por favor, verifique seu e-mail ou senha"
   },
-  "FormInputEmailPlaceholder": {
+  "formInputEmailPlaceholder": {
     "eng": "Your e-mail...",
     "ptBr": "Seu e-mail..."
   },
-  "FormInputPasswordPlaceholder": {
+  "formInputPasswordPlaceholder": {
     "eng": "Your password...",
     "ptBr": "Sua senha..."
   },
-  "Login": {
+  "login": {
     "eng": "Login",
     "ptBr": "Login"
   },
-  "CreateYourAccount": {
+  "createYourAccount": {
     "eng": "Create Account",
     "ptBr": "Criar Conta"
   },
-  "ForgotPassword": {
+  "forgotPassword": {
     "eng": "Forgot Your Password?",
     "ptBr": "Esqueceu sua Senha?"
   },
-  "EmptyEmailPassword": {
+  "emptyEmailPassword": {
     "eng": "Please fill your e-mail or password to login!",
     "ptBr": "Por favor, preencha seu e-mail e senha para fazer login!"
   }
