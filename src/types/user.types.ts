@@ -1,13 +1,13 @@
 export interface IUserEntity {
-  id: number;
-  name: string;
-  type: UserTypes;
-  email: string;
-  address: string;
-  phone: string;
-  created: Date;
-  updated: Date;
-  unsubscribed: boolean;
+  id: number | null;
+  name: string | null;
+  type: UserTypes | null;
+  email: string | null;
+  address: string | null;
+  phone: string | null;
+  created: Date | null;
+  updated: Date | null;
+  unsubscribed: boolean | null;
 }
 
 export enum UserTypes {
