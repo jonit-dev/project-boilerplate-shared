@@ -18,5 +18,9 @@
   "connectionError": {
     "eng": "Couldn't connect to the server. Please, check your internet connection!",
     "ptBr": "Não foi possível conectar ao servidor. Por favor, verifique sua conexão à internet!"
+  },
+  "oops": {
+    "eng": "Oops!",
+    "ptBr": "Oops!"
   }
 }

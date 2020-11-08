@@ -1,4 +1,8 @@
 {
+  "emptyFieldsError": {
+    "eng": "The following fields are empty: {{invalidFields}}",
+    "ptBr": "Os seguintes campos estão vazios: {{invalidFields}}"
+  },
   "name": {
     "eng": "Name",
     "ptBr": "Nome"

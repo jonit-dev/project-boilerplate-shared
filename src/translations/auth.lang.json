@@ -26,5 +26,17 @@
   "emptyEmailPassword": {
     "eng": "Please fill your e-mail or password to login!",
     "ptBr": "Por favor, preencha seu e-mail e senha para fazer login!"
+  },
+  "register": {
+    "eng": "Register",
+    "ptBr": "Registro"
+  },
+  "pleaseLogin": {
+    "eng": "Please, login again",
+    "ptBr": "Por favor, acesse novamente"
+  },
+  "couldntAuthenticate": {
+    "eng": "We couldn't authenticate your user. Please login again.",
+    "ptBr": "Não foi possível autenticar seu usuário. Por favor faça login novamente."
   }
 }
