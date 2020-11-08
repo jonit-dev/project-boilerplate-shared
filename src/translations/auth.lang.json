@@ -38,5 +38,9 @@
   "couldntAuthenticate": {
     "eng": "We couldn't authenticate your user. Please login again.",
     "ptBr": "Não foi possível autenticar seu usuário. Por favor faça login novamente."
+  },
+  "loginBeforeAccessingThisPage": {
+    "eng": "Please, login before accessing this page.",
+    "ptBr": "Por favor, faça o login antes de acessar esta página."
   }
 }
