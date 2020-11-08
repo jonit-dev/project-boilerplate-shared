@@ -18,5 +18,9 @@
   "phone": {
     "eng": "Phone",
     "ptBr": "Telefone"
+  },
+  "submit": {
+    "eng": "Submit",
+    "ptBr": "Enviar"
   }
 }
