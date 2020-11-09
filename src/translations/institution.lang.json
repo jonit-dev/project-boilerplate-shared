@@ -1,0 +1,6 @@
+{
+  "institutionTypeError": {
+    "eng": "Institution types should be either 'Daycare' or 'SeniorFacility'",
+    "ptBr": "Os tipos de instituição devem ser 'Daycare' ou 'SeniorFacility'"
+  }
+}
