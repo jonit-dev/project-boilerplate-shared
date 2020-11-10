@@ -23,6 +23,10 @@
     "eng": "Phone",
     "ptBr": "Telefone"
   },
+  "type": {
+    "eng": "Type",
+    "ptBr": "Tipo"
+  },
   "submit": {
     "eng": "Submit",
     "ptBr": "Enviar"
