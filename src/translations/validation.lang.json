@@ -1,30 +1,38 @@
 {
   "isNotEmpty": {
-    "eng": "'{{field}}' field cannot be empty.",
-    "ptBr": "O campo '{{field}}' não pode estar vazio."
+    "eng": "{{field}} field cannot be empty.",
+    "ptBr": "O campo {{field}} não pode estar vazio."
   },
   "isString": {
-    "eng": "'{{field}}' field must be a string.",
-    "ptBr": "O campo '{{field}}' deve ser uma string."
+    "eng": "{{field}} field must be a string.",
+    "ptBr": "O campo {{field}} deve ser uma string."
   },
   "minLength": {
-    "eng": "'{{field}}' field must have at least $constraint1 characters.",
-    "ptBr": "O campo '{{field}}' deve ter pelo menos $constraint1 caracteres."
+    "eng": "{{field}} field must have at least $constraint1 characters.",
+    "ptBr": "O campo {{field}} deve ter pelo menos $constraint1 caracteres."
   },
   "maxLength": {
-    "eng": "'{{field}}' field must have up to $constraint1 characters.",
-    "ptBr": "O campo '{{field}}' deve ter até $constraint1 caracteres."
+    "eng": "{{field}} field must have up to $constraint1 characters.",
+    "ptBr": "O campo {{field}} deve ter até $constraint1 caracteres."
   },
   "isPhoneNumber": {
-    "eng": "'{{field}}' field  must be a phone number in the following format: '{{format}}'.",
-    "ptBr": "O campo '{{field}}' deve ser um número de telefone no seguinte formato: '{{format}}'."
+    "eng": "{{field}} field  must be a phone number in the following format: {{format}}.",
+    "ptBr": "O campo {{field}} deve ser um número de telefone no seguinte formato: {{format}}."
   },
   "isNumber": {
-    "eng": "'{{field}}' field  must be a number.",
-    "ptBr": "O campo '{{field}}' deve ser um número."
+    "eng": "{{field}} field  must be a number.",
+    "ptBr": "O campo {{field}} deve ser um número."
   },
   "isEmail": {
-    "eng": "'{{field}}' field must be a valid e-mail.",
-    "ptBr": "O campo '{{field}}' deve ser um e-mail válido."
+    "eng": "{{field}} field must be a valid e-mail.",
+    "ptBr": "O campo {{field}} deve ser um e-mail válido."
+  },
+  "alreadyExists": {
+    "eng": "{{field}} field already exists!",
+    "ptBr": "O campo {{field}} já existe!"
+  },
+  "notFound": {
+    "eng": "{{field}} field not found!",
+    "ptBr": "O campo {{field}} nao foi encontrado!"
   }
 }
