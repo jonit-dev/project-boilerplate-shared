@@ -28,11 +28,11 @@
     "ptBr": "O campo {{field}} deve ser um e-mail válido."
   },
   "alreadyExists": {
-    "eng": "{{field}} field already exists!",
+    "eng": "{{field}} already exists!",
     "ptBr": "O campo {{field}} já existe!"
   },
   "notFound": {
-    "eng": "{{field}} field not found!",
-    "ptBr": "O campo {{field}} nao foi encontrado!"
+    "eng": "{{field}} not found!",
+    "ptBr": "O campo {{field}} não foi encontrado!"
   }
 }

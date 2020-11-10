@@ -11,6 +11,9 @@ export interface IUserEntity {
 }
 
 export enum UserTypes {
-  Regular = "Regular",
   Admin = "Admin",
+  Guardian = "Guardian",
+  Institution = "Institution",
+  Supervisor = "Supervisor",
+  Staff = "Staff", //Caregiver
 }
