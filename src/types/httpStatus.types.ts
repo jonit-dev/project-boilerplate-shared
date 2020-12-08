@@ -5,9 +5,11 @@ export enum HttpStatus {
   TemporaryRedirect = 302,
   BadRequest = 400,
   Unauthorized = 401,
-  NotFound = 404,
   Forbidden = 403,
-  Gone = 401,
+  NotFound = 404,
+  MethodNotAllowed = 405,
+  Conflict = 409,
+  UnprocessableEntity = 422,
   InternalServerError = 500,
   ServiceUnavailable = 503,
 }
