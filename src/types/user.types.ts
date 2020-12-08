@@ -17,3 +17,10 @@ export enum UserTypes {
   Supervisor = "Supervisor",
   Staff = "Staff", //Caregiver
 }
+
+export enum UserAuthFlow {
+  Basic = "Basic",
+  GoogleOAuth = "GoogleOAuth",
+  FacebookOAuth = "FacebookOAuth",
+  LinkedInOAuth = "LinkedInOAuth",
+}
