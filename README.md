@@ -1,5 +1,13 @@
 # How to update our shared packages?
 
+# Pre-requisites:
+
+- Make sure you're logged in, otherwise you'll get a not found error.
+
+`npm login`
+
+# Step-by-step:
+
 1. Implement your desired changes. Remember to export any types in index.ts
 
 2. `yarn publish`
