@@ -5,4 +5,5 @@ export type TranslationTypes =
   | "logs"
   | "users"
   | "institution"
-  | "validation";
+  | "validation"
+  | "error";

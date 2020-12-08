@@ -1,7 +1,7 @@
 {
   "invalidCredentials": {
     "eng": "Invalid credentials. Please, check your email or password.",
-    "ptBr": "Credenciais inválidas. Por favor, verifique seu e-mail ou senha"
+    "ptBr": "Credenciais inválidas. Por favor, verifique seu e-mail ou senha."
   },
   "formInputEmailPlaceholder": {
     "eng": "Your e-mail...",
@@ -42,5 +42,33 @@
   "loginBeforeAccessingThisPage": {
     "eng": "Please, login before accessing this page.",
     "ptBr": "Por favor, faça o login antes de acessar esta página."
+  },
+  "loginAccessResource": {
+    "eng": "Please, login to access this resource.",
+    "ptBr": "Por favor, faça o login para acessar este recurso."
+  },
+  "notAllowedResource": {
+    "eng": "Sorry, you're not allowed to access this resource.",
+    "ptBr": "Desculpe, você não tem permissão para acessar este recurso."
+  },
+  "adminOnlyResource": {
+    "eng": "Only admins can access this resource!",
+    "ptBr": "Apenas administradores podem acessar este recurso!"
+  },
+  "dontHaveRefreshTokens": {
+    "eng": "Your user does not have refreshTokens.",
+    "ptBr": "Seu usuário não tem refreshTokens."
+  },
+  "refreshTokenInvalid": {
+    "eng": "Error: Your refreshToken is invalid",
+    "ptBr": "Erro: seu refreshToken é inválido"
+  },
+  "oauthAccessTokenError": {
+    "eng": "Error while trying to generate your access token!",
+    "ptBr": "Erro ao tentar gerar seu token de acesso!"
+  },
+  "oauthGoogleEmailNotProvided": {
+    "eng": "Cannot login this user: Google's e-mail not provided!",
+    "ptBr": "Não é possível fazer o login deste usuário: e-mail do Google não fornecido!"
   }
 }

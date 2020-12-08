@@ -1,0 +1,14 @@
+{
+  "genericError": {
+    "eng": "Something went wrong. Please try again.",
+    "ptBr": "Algo deu errado. Por favor, tente novamente."
+  },
+  "mongodbConnectionError": {
+    "eng": "Error while connecting to MongoDB!",
+    "ptBr": "Erro ao conectar ao MongoDB!"
+  },
+  "noHashEmail": {
+    "eng": "No hashEmail provided for unsubscribe function!",
+    "ptBr": "Nenhum hashEmail fornecido para a função de cancelamento de inscrição!"
+  }
+}
