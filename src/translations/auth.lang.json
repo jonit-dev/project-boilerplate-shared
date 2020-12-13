@@ -78,5 +78,9 @@
   "signInWithGoogle": {
     "eng": "Sign In with Google",
     "ptBr": "Login com Google"
+  },
+  "authModeError": {
+    "eng": "You cannot sign in to this account using regular e-mail and password because it was created by a third party auth system. Try signing in with Google or any other provider available.",
+    "ptBr": "Você não pode entrar nesta conta usando e-mail e senha normais porque ela foi criada por um sistema de autenticação de terceiros. Tente fazer login no Google ou em qualquer outro provedor disponível."
   }
 }
