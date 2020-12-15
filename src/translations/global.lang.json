@@ -22,5 +22,9 @@
   "oops": {
     "eng": "Oops!",
     "ptBr": "Oops!"
+  },
+  "success": {
+    "eng": "Sucess",
+    "ptBr": "Sucesso"
   }
 }

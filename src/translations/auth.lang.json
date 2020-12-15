@@ -82,5 +82,25 @@
   "authModeError": {
     "eng": "You cannot access this account using regular e-mail and password because it was created by a third party auth system. Try signing in with Google or any other provider available.",
     "ptBr": "Você não pode acessar esta conta usando e-mail e senha normais porque ela foi criada por um sistema de autenticação de terceiros. Tente fazer login no Google ou em qualquer outro provedor disponível."
+  },
+  "passwordRecovery": {
+    "eng": "Password Recovery",
+    "ptBr": "Recuperação de Senha"
+  },
+  "forgotYourPassword": {
+    "eng": "Forgot your Password?",
+    "ptBr": "Esqueceu sua Senha?"
+  },
+  "forgotPasswordText": {
+    "eng": "Please, type the e-mail that you used to create you account below. We'll generate a new password and submit to you.",
+    "ptBr": "Por favor, digite o e-mail que você utilizou para criar sua conta abaixo. Iremos gerar uma nova senha e enviar para você."
+  },
+  "passwordRecoverySuccess": {
+    "eng": "Your account password was reset. Please, check your e-mail.",
+    "ptBr": "A senha da sua conta foi redefinida. Por favor verifique seu email."
+  },
+  "accountCreatedSuccessfully": {
+    "eng": "Account created successfully!",
+    "ptBr": "Conta criada com sucesso"
   }
 }

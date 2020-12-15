@@ -1,4 +1,8 @@
 {
+  "welcome": {
+    "eng": "Welcome!",
+    "ptBr": "Seja Bem-vindo(a)!"
+  },
   "passwordRecoveryGreetings": {
     "eng": "Password Recovery",
     "ptBr": "Recuperação de Senha"
