@@ -4,8 +4,8 @@
     "ptBr": "Recuperação de Senha"
   },
   "passwordRecoveryMessage": {
-    "eng": "`You recently requested to reset your password. Here there is: <b>{{randomPassword}}</b>`",
-    "ptBr": "` Você recentemente solicitou redefinir sua senha. Aqui está: <b>{{randomPassword}}</b> `"
+    "eng": "You recently requested to reset your password. Here there is: <b>{{randomPassword}}</b>",
+    "ptBr": "Você recentemente solicitou redefinir sua senha. Aqui está: <b>{{randomPassword}}</b>"
   },
   "passwordRecoveryEndPhrase": {
     "eng": "We strongly suggest that you <b>change it right away</b>, by logging in through our app and selecting the password change option.",
