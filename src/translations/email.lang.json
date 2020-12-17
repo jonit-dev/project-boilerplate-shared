@@ -3,6 +3,18 @@
     "eng": "Welcome!",
     "ptBr": "Seja Bem-vindo(a)!"
   },
+  "newAccountEmailFirstParagraph": {
+    "eng": "<p>I’m the founder of {{appName}} and I’d like to personally thank you for signing up to our system.</p><p>We established this company in order to make parents even closer to their loved ones and we sincerely hope you enjoy our services!</p>",
+    "ptBr": "<p>Sou o fundador de {{appName}} e gostaria de agradecer pessoalmente por se inscrever em nosso sistema. </p><p> Estabelecemos esta empresa para tornar os pais ainda mais próximos de seus entes queridos e esperamos sinceramente que você goste de nossos serviços! </p>"
+  },
+  "newAccountEmailForReference": {
+    "eng": "For your reference, please take note of the registered login:",
+    "ptBr": "Para sua referência, anote o login registrado:"
+  },
+  "newAccountEmailBottom": {
+    "eng": "I’d love to hear what you think of {{appName}} and if there is anything we can improve. If you have any questions, please reply to this email. I’m always happy to help!",
+    "ptBr": "Adoraria saber o que você acha de {{appName}} e se houver algo que possamos melhorar. Se você tiver alguma dúvida, responda a este e-mail. Estou sempre feliz em ajudar!"
+  },
   "passwordRecoveryGreetings": {
     "eng": "Password Recovery",
     "ptBr": "Recuperação de Senha"
