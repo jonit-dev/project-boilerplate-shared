@@ -38,5 +38,9 @@
   "creationError": {
     "eng": "Error while trying to create a new {{field}}.",
     "ptBr": "Erro ao tentar inserir dados para o campo {{field}}."
+  },
+  "isEnum": {
+    "eng": "Error: The {{field}} field accepts only one of the following values: {{types}}.",
+    "ptBr": "Erro: o campo {{field}} aceita apenas um dos seguintes valores: {{types}}."
   }
 }
