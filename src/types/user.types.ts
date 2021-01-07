@@ -12,10 +12,8 @@ export interface IUserEntity {
 
 export enum UserTypes {
   Admin = "Admin",
-  Guardian = "Guardian",
-  Institution = "Institution",
-  Supervisor = "Supervisor",
-  Staff = "Staff", //Caregiver
+  Regular = "Regular",
+  Staff = "Staff",
 }
 
 export enum UserAuthFlow {

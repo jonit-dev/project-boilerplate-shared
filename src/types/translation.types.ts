@@ -4,7 +4,6 @@ export type TranslationTypes =
   | "global"
   | "logs"
   | "users"
-  | "institution"
   | "validation"
   | "error"
   | "email";
