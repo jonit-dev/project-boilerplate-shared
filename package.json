@@ -1,6 +1,6 @@
 {
-  "name": "@little-sentinel/shared",
-  "version": "1.0.87",
+  "name": "@project-boilerplate/shared",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonit-dev/little-sentinel-shared.git"
+    "url": "git+https://github.com/jonit-dev/project-boilerplate-shared.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jonit-dev/little-sentinel-shared/issues"
+    "url": "https://github.com/jonit-dev/project-boilerplate-shared/issues"
   },
-  "homepage": "https://github.com/jonit-dev/little-sentinel-shared#readme",
+  "homepage": "https://github.com/jonit-dev/project-boilerplate-shared#readme",
   "devDependencies": {
     "typescript": "^4.0.5"
   }
