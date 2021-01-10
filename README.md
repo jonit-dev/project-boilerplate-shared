@@ -15,3 +15,11 @@
 3. Update back-end and front-end packages
 
 References: https://cameronnokes.com/blog/the-30-second-guide-to-publishing-a-typescript-package-to-npm/
+
+# Notes
+
+- First time publishing will require you to explicitly set it to public:
+
+```
+yarn publish --access public
+```
