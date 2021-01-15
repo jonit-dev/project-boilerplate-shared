@@ -102,5 +102,9 @@
   "accountCreatedSuccessfully": {
     "eng": "Account created successfully!",
     "ptBr": "Conta criada com sucesso"
+  },
+  "alreadyHaveAccountLogin": {
+    "eng": "Already have an account? Please, login",
+    "ptBr": "Você já possui uma conta? Por favor, faça login."
   }
 }

@@ -15,6 +15,10 @@
     "eng": "Password",
     "ptBr": "Senha"
   },
+  "passwordConfirmation": {
+    "eng": "Password Confirmation",
+    "ptBr": "Confirme sua Senha"
+  },
   "address": {
     "eng": "Address",
     "ptBr": "Endereço"
@@ -34,5 +38,9 @@
   "institution": {
     "eng": "Institution",
     "ptBr": "Instituição"
+  },
+  "or": {
+    "eng": "OR",
+    "ptBr": "OU"
   }
 }
