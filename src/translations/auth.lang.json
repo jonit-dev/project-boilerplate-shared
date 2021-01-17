@@ -92,7 +92,7 @@
     "ptBr": "Esqueceu sua Senha?"
   },
   "forgotPasswordText": {
-    "eng": "Please, type the e-mail that you used to create you account below. We'll generate a new password and submit to you.",
+    "eng": "Please, type the e-mail that you used to create your account below. We'll generate a new password and submit to you.",
     "ptBr": "Por favor, digite o e-mail que você utilizou para criar sua conta abaixo. Iremos gerar uma nova senha e enviar para você."
   },
   "passwordRecoverySuccess": {
