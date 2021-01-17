@@ -110,5 +110,9 @@
   "passwordDoesNotMatchConfirmation": {
     "eng": "The password provided does not match its confirmation.",
     "ptBr": "A senha fornecida não corresponde à sua confirmação."
+  },
+  "accountAuthFlowMismatch": {
+    "eng": "This account was created through email/password and not by {{authFlowProvider}}. Please, use the 'forgot password' section to try recovering your account!",
+    "ptBr": "Esta conta foi criada por e-mail / senha e não por {{authFlowProvider}}. Por favor, use a seção 'Esqueci minha senha' para tentar recuperar sua conta!"
   }
 }
