@@ -106,5 +106,9 @@
   "alreadyHaveAccountLogin": {
     "eng": "Already have an account? Please, login",
     "ptBr": "Você já possui uma conta? Por favor, faça login."
+  },
+  "passwordDoesNotMatchConfirmation": {
+    "eng": "The password provided does not match its confirmation.",
+    "ptBr": "A senha fornecida não corresponde à sua confirmação."
   }
 }
