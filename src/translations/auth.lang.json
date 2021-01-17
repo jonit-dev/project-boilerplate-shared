@@ -112,7 +112,7 @@
     "ptBr": "A senha fornecida não corresponde à sua confirmação."
   },
   "accountAuthFlowMismatch": {
-    "eng": "This account was created through and email and password authentication flow. Please, use the 'Forgot Password' feature if needed!",
+    "eng": "This account was created through an email and password authentication flow. Please, use the 'Forgot Password' feature if needed!",
     "ptBr": "Esta conta foi criada através de um fluxo de autenticação de e-mail e senha. Por favor, use a funcionalidade 'Esqueci minha senha' se necessário!"
   }
 }
