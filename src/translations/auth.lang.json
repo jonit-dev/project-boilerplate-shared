@@ -130,5 +130,13 @@
   "changePasswordInfoText": {
     "eng": "Please, type your current password and your chosen new password on the fields below.",
     "ptBr": "Por favor, digite sua senha atual e a nova senha escolhida nos campos abaixo."
+  },
+  "changePasswordSuccess": {
+    "eng": "Your password was changed successfully! Please, login again.",
+    "ptBr": "Sua senha foi alterada com sucesso! Por favor faça login novamente."
+  },
+  "changePasswordGenericError": {
+    "eng": "Something wrong happened while trying to change your password! Please, contact {{adminEmail}} for more information.",
+    "ptBr": "Ocorreu um erro ao tentar alterar sua senha! Entre em contato com {{adminEmail}} para mais informações."
   }
 }
