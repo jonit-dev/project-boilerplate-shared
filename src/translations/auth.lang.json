@@ -114,5 +114,21 @@
   "accountAuthFlowMismatch": {
     "eng": "This account was created through an email and password authentication flow. Please, use the 'Forgot Password' feature if needed!",
     "ptBr": "Esta conta foi criada através de um fluxo de autenticação de e-mail e senha. Por favor, use a funcionalidade 'Esqueci minha senha' se necessário!"
+  },
+  "changePassword": {
+    "eng": "Change Password",
+    "ptBr": "Trocar Senha"
+  },
+  "changePasswordIncorrectCurrentPassword": {
+    "eng": "The current password provided is not your password.",
+    "ptBr": "A senha atual fornecida não é sua senha."
+  },
+  "changePasswordSamePasswords": {
+    "eng": "Your current and new password must be different.",
+    "ptBr": "Sua senha atual e a nova devem ser diferentes."
+  },
+  "changePasswordInfoText": {
+    "eng": "Please, type your current password and your chosen new password on the fields below.",
+    "ptBr": "Por favor, digite sua senha atual e a nova senha escolhida nos campos abaixo."
   }
 }
