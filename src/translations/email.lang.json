@@ -1,4 +1,12 @@
 {
+  "genericEndPhrase": {
+    "eng": "Thank you for using our product. </br></br> [Product Name]'s Team",
+    "ptBr": "Obrigado por usar o nosso produto. </br> </br> [Product Name]"
+  },
+  "genericConfirmationTitle": {
+    "eng": "Confirmation",
+    "ptBr": "Confirmação"
+  },
   "welcome": {
     "eng": "Welcome!",
     "ptBr": "Seja Bem-vindo(a)!"
@@ -26,5 +34,13 @@
   "passwordRecoveryEndPhrase": {
     "eng": "We strongly suggest that you <b>change it right away</b>, by logging in through our app and selecting the password change option.",
     "ptBr": "Sugerimos que você <b> altere imediatamente </b>, fazendo login em nosso aplicativo e selecionando a opção de alteração de senha."
+  },
+  "passwordChangeTitle": {
+    "eng": "Password Changed",
+    "ptBr": "Senha Atualizada"
+  },
+  "passwordChangeMessage": {
+    "eng": "We're submitting this e-mail just to confirm that your password has changed successfully. If you did not request this change, please contact {{adminEmail}} immediately.",
+    "ptBr": "Estamos enviando este e-mail apenas para confirmar que sua senha foi alterada com sucesso. Se você não solicitou essa alteração, entre em contato com {{adminEmail}} imediatamente."
   }
 }
