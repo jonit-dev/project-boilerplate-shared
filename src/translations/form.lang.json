@@ -42,5 +42,21 @@
   "or": {
     "eng": "OR",
     "ptBr": "OU"
+  },
+  "currentPasswordPlaceholder": {
+    "eng": "Your current password...",
+    "ptBr": "Sua senha atual..."
+  },
+  "newPasswordPlaceholder": {
+    "eng": "Your new password...",
+    "ptBr": "Sua nova senha..."
+  },
+  "currentPassword": {
+    "eng": "Current Password",
+    "ptBr": "Senha Atual"
+  },
+  "newPassword": {
+    "eng": "New Password",
+    "ptBr": "Nova Senha"
   }
 }
