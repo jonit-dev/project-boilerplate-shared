@@ -6,4 +6,5 @@ export type TranslationTypes =
   | "users"
   | "validation"
   | "error"
-  | "email";
+  | "email"
+  | "terms";
