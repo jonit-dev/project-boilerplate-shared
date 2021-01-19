@@ -16,8 +16,8 @@
     "ptBr": "Sua senha..."
   },
   "formInputPasswordConfirmationPlaceholder": {
-    "eng": "Your password confirmation...",
-    "ptBr": "Sua confirmação de senha ..."
+    "eng": "Type your password again...",
+    "ptBr": "Digite sua senha novamente..."
   },
   "formInputAddressPlaceholder": {
     "eng": "Your full address...",
