@@ -43,6 +43,10 @@
     "eng": "OR",
     "ptBr": "OU"
   },
+  "forgotPasswordEmailPlaceholder": {
+    "eng": "The e-mail used to create your account.",
+    "ptBr": "O e-mail usado para criar sua conta."
+  },
   "currentPasswordPlaceholder": {
     "eng": "Your current password...",
     "ptBr": "Sua senha atual..."

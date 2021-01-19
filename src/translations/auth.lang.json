@@ -3,6 +3,10 @@
     "eng": "Invalid credentials. Please, check your email or password.",
     "ptBr": "Credenciais inválidas. Por favor, verifique seu e-mail ou senha."
   },
+  "formInputNamePlaceholder": {
+    "eng": "Your name...",
+    "ptBr": "Seu nome..."
+  },
   "formInputEmailPlaceholder": {
     "eng": "Your e-mail...",
     "ptBr": "Seu e-mail..."
@@ -10,6 +14,14 @@
   "formInputPasswordPlaceholder": {
     "eng": "Your password...",
     "ptBr": "Sua senha..."
+  },
+  "formInputPasswordConfirmationPlaceholder": {
+    "eng": "Your password confirmation...",
+    "ptBr": "Sua confirmação de senha ..."
+  },
+  "formInputAddressPlaceholder": {
+    "eng": "Your full address...",
+    "ptBr": "Seu endereço completo ..."
   },
   "login": {
     "eng": "Login",
