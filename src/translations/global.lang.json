@@ -26,5 +26,17 @@
   "success": {
     "eng": "Sucess",
     "ptBr": "Sucesso"
+  },
+  "contact": {
+    "eng": "Contact",
+    "ptBr": "Contato"
+  },
+  "termsOfUse": {
+    "eng": "Terms of Use",
+    "ptBr": "Termos de Uso"
+  },
+  "privacyPolicy": {
+    "eng": "Privacy Policy",
+    "ptBr": "Política de Privacidade"
   }
 }
